@@ -2,6 +2,9 @@ package codeStudio;
 
 public class CheckGitHub {
 	
-	"check Github"
+	public void gitHub()
+	{
+		System.out.println("GitHub pulled succesfully");
+	}
 
 }
